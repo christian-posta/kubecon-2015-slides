@@ -478,10 +478,75 @@ image:openshift_logo.png[width="80%",height="80%"]
 * Logging, metrics
 * Chaos monkey
 
+[#block,width="200px",top="170px",left="480px"]
+image:microservice.jpeg[width="130%",height="130%"]
+
 
 // ************** bring together ********
-[#fabric8-intro]
-== Fabric8.io
+[#about-redhat]
+== Open Source at Red Hat
+
+* Drive innovation in open-source communities
+* Community leadership, meritocracy
+* Products are curated open-source packages
+* 100% everything from opensource
+* Fixes go to "upstream" first
+* Curate and harden innnovation and feed into products
+
+
+// ************** bring together ********
+[#meet-fabric8]
+== Meet Fabric8.io
+
+[#block,width="200px",top="100px",left="0px"]
+image:fabric8.png[width="100%",height="100%"]
+
+
+// ************** bring together ********
+[#meet-fabric8-2]
+== Meet Fabric8.io
+
+* Visualizations of Kubernetes via Web Console
+* Prepackaged "apps"
+** 1-click Continuous Integration/Delivery
+** 1-click API Management
+** 1-click Metrics/Logging
+* ChatOps
+* Built-in Chaos Monkey
+
+
+
+[#block,width="200px",top="450px",left="50px"]
+image:fabric8-improvement.png[width="100%",height="100%"]
+
+
+// ************** bring together ********
+[#kube-for-java]
+== Kubernetes for Java
+
+* Java maven plugins
+** Build/Manage docker images
+** Sync w/ docker containers for RAD
+** Generate Kube json/OpenShift templates
+** Deploy to Kubernetes/OpenShift via maven goals
+* Java+Kubernetes support for CDI/Spring
+* JUnit+Kubernetes Integration testing
+
+
+
+// ************** bring together ********
+[#kube-for-java]
+== Continuous Integration / Delivery
+
+* Install the software "appliance" based on Jenkins, Gogs.io, Nexus, Gerrit, et al.
+* Integrates with Slack/LetsChat/others
+* Sets up git repos, code reviews, jenkins workflows
+* Customizable
+* Single pane of glass
+* Build and environment promotions built in
+
+[#block,width="200px",top="450px",left="50px"]
+image:fabric8-automation.png[width="100%",height="100%"]
 
 
 
