@@ -364,12 +364,125 @@ image:eip.jpg[width="125%",height="125%"]
 * Lack of tooling
 * Just stick with monoliths?
 
-// ************** Microservices ********
+
+// ************** transition page *************************************************************************************
+[#bringtogether, data-background-image="revealjs-redhat/image/1156524-bg_redhat.png" data-background-color="#cc0000"]
+== {blank-space}
+
+[#block,width="200px",left="70px",top="0px"]
+image::{revealjs_cover_image}[]
+
+[#cover-h1,width="600px",left="0px",top="400px"]
+*Bringing it all together*
+
+// ************** bring together ********
+[#opensource-principles]
+== {blank-space}
+
+[#block,width="300px",top="150px",left="50px",font_size="50px"]
+Model culture after opensource organizations: *meritocracy*, *shared consciousness*, *transparency*, *network*, *platforms*
+
+
+// ************** bring together ********
 [#can-devops-help]
 == Can DevOps help?
 
 [#block,width="200px",top="100px",left="50px"]
 image:flipoff.gif[width="190%",height="190%"]
+
+
+
+// ************** bring together ********
+[#thoughts-on-platforms]
+== {blank-space}
+
+[#block,width="300px",top="150px",left="50px",font_size="50px"]
+Thoughts on platforms...
+
+
+
+// ************** bring together ********
+[#flexbility-v-efficiency]
+== {blank-space}
+
+[#block,width="300px",top="150px",left="50px",font_size="50px"]
+Flexibility for teams and systems, efficiency for builds and delivery...
+
+
+// ************** bring together ********
+[#why-docker]
+== Why Docker?
+
+* Automation as communication
+* Image format vs golden image
+* Fusing of concerns (Devs/Ops)
+* Density, infrastructure utilization
+
+[#block,width="200px",top="100px",left="500px"]
+image:docker.jpeg[width="120%",height="120%"]
+
+// ************** bring together ********
+[#why-kube]
+== Why Kubernetes
+
+* Different way to look at managing instances: scale
+* Design for failure
+* Efficient / Lean/ Simple
+* Portability
+* Extensible
+
+[#block,width="200px",top="170px",left="500px"]
+image:kubernetes-logo.png[width="120%",height="120%"]
+
+// ************** bring together ********
+[#all-we-need]
+== {blank-space}
+
+[#block,width="300px",top="150px",left="50px",font_size="50px"]
+Is that all we need?
+
+// ************** bring together ********
+[#meet-openshift-1]
+== Meet OpenShift v3
+
+* Developer focused workflow
+* Source 2 Image builds
+* Build as first-class citizen
+* Deployments as first-class citizen
+* Software Defined Networking (SDN)
+* Docker native format/packaging
+* Run docker images
+* CLI/Web based tooling
+
+[#block,width="200px",top="170px",left="530px"]
+image:openshift_logo.png[width="80%",height="80%"]
+
+
+// ************** bring together ********
+[#meet-openshift-2]
+== Meet OpenShift v3
+
+
+[#block,width="200px",top="170px",left="530px"]
+image:openshift_logo.png[width="80%",height="80%"]
+
+// ************** bring together ********
+[#microservices-platforms]
+== A platform for microservices
+
+* Service discovery
+* Configuration
+* Immutable infrastructure
+* Build promotion, CI/CD
+* API Management
+* Logging, metrics
+* Chaos monkey
+
+
+// ************** bring together ********
+[#fabric8-intro]
+== Fabric8.io
+
 
 
 // ************** transition page *************************************************************************************
