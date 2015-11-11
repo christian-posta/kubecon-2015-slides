@@ -936,6 +936,22 @@ image:fabric8-default.png[width="100%",height="100%"]
 image:fabric8-ci-cd.png[width="100%",height="100%"]
 
 
+// *********************************
+[#fabric8-cd-pipeline]
+== Components
+
+* Gogs.io
+* Jenkins CI
+* Jenkins workflow plugin
+* JBoss Forge
+* Nexus
+* Gerrit
+* LetsChat/Slack/Hubot
+* Jolokia
+* maven plugins
+
+
+
 // ************** transition page **************************************************************************************
 [#mvn-plugins, data-background-image="revealjs-redhat/image/1156524-bg_redhat.png" data-background-color="#cc0000"]
 == {blank-space}
