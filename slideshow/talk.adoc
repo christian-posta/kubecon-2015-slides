@@ -937,7 +937,7 @@ image:fabric8-ci-cd.png[width="100%",height="100%"]
 
 
 // *********************************
-[#fabric8-cd-pipeline]
+[#fabric8-cd-pipeline-components]
 == Components
 
 * Gogs.io
