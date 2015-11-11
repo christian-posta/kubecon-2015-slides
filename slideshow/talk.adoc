@@ -540,7 +540,7 @@ image:fabric8-improvement.png[width="100%",height="100%"]
 
 // ************** bring together ********
 [#kube-for-java]
-== Kubernetes for Java
+== Kubernetes for Developers
 
 * Java maven plugins
 ** Build/Manage docker images
