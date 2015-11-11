@@ -7,7 +7,7 @@
 :speaker-twitter: http://twitter.com/christianposta[@christianposta]
 :talk-speaker: {speaker}
 :talk-name: KubeCon 2015: Microservices aren't just for unicorns!
-:talk-date: 11/10/2015
+:talk-date: 11/11/2015
 
 [#cover,data-background-image="revealjs-redhat/image/1156524-bg_redhat.png" data-background-color="#cc0000"]
 == {blank-space}
