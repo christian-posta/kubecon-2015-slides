@@ -578,7 +578,12 @@ image::{revealjs_cover_image}[]
 [#cover-h1,width="600px",left="0px",top="400px"]
 *Break / set up tools*
 
+// ************** Set up ********
+[#set-up-openshift-locally]
+== Test out Openshift + fabric8 locally
 
+[#block,width="300px",top="150px",left="50px",font_size="50px"]
+http://fabric8.io/guide/getStarted/vagrant.html
 
 // ************** Set up ********
 [#setup-oc]
@@ -879,7 +884,6 @@ You may be wondering why only one end point is listed. That is because there is
 only one *guestbook* Pod running.  In the next lab, we will learn how to scale
 an application, at which point you will be able to see multiple endpoints
 associated with the *guestbook* Service.
-
 
 
 
